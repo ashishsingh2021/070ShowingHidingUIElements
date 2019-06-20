@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">070 Showing  Hiding UI Elements</string>
+    <string name="visible">visible</string>
+    <string name="invisible">invisible</string>
+</resources>
